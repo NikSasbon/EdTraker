@@ -1,0 +1,5 @@
+{
+  "name": "Editor Track - Output Tracker",
+  "description": "Una aplicación web intuitiva para el seguimiento semanal del rendimiento de editores de video, con visualización de datos y gestión de equipo.",
+  "requestFramePermissions": []
+}
