@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EdTraker - Simple</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #f6f7fb;
+        color: #1f2937;
+      }
+      body {
+        margin: 0;
+        padding: 32px 16px 64px;
+      }
+      .container {
+        max-width: 960px;
+        margin: 0 auto;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 24px;
+      }
+      header h1 {
+        font-size: 28px;
+        margin: 0;
+      }
+      header p {
+        margin: 4px 0 0;
+        color: #6b7280;
+        font-size: 14px;
+      }
+      .card {
+        background: #fff;
+        border-radius: 18px;
+        padding: 20px;
+        box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+        margin-bottom: 20px;
+      }
+      .grid {
+        display: grid;
+        gap: 16px;
+      }
+      .grid.two {
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      }
+      .row {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+      label {
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #6b7280;
+      }
+      input,
+      select,
+      button,
+      textarea {
+        border-radius: 12px;
+        border: 1px solid #e5e7eb;
+        padding: 10px 12px;
+        font-size: 14px;
+      }
+      input,
+      select,
+      textarea {
+        width: 100%;
+        box-sizing: border-box;
+      }
+      button {
+        cursor: pointer;
+        background: #4f46e5;
+        color: #fff;
+        border: none;
+        font-weight: 700;
+      }
+      button.secondary {
+        background: #111827;
+      }
+      button.ghost {
+        background: transparent;
+        color: #4f46e5;
+        border: 1px solid #c7d2fe;
+      }
+      button.danger {
+        background: #dc2626;
+      }
+      .badge {
+        font-size: 12px;
+        font-weight: 600;
+        background: #e0e7ff;
+        color: #3730a3;
+        padding: 4px 10px;
+        border-radius: 999px;
+      }
+      .list {
+        display: grid;
+        gap: 12px;
+      }
+      .list-item {
+        border: 1px solid #e5e7eb;
+        border-radius: 14px;
+        padding: 12px 16px;
+        background: #f9fafb;
+      }
+      .list-item strong {
+        display: block;
+        margin-bottom: 4px;
+      }
+      .muted {
+        color: #9ca3af;
+        font-size: 12px;
+      }
+      .hidden {
+        display: none !important;
+      }
+      .status {
+        font-size: 12px;
+        margin-top: 8px;
+        color: #10b981;
+        font-weight: 600;
+      }
+      .warning {
+        color: #b45309;
+      }
+      footer {
+        text-align: center;
+        margin-top: 32px;
+        color: #9ca3af;
+        font-size: 12px;
+      }
+      @media (max-width: 640px) {
+        header {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 12px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div>
+          <h1>EdTraker Simple</h1>
+          <p>Login con Google, carga minutos/segundos por semana y guarda todo en la nube.</p>
+        </div>
+        <div class="row" style="justify-content: flex-end;">
+          <span class="badge" id="auth-status">No conectado</span>
+          <button id="login-btn">Login con Google</button>
+          <button id="logout-btn" class="secondary hidden">Salir</button>
+        </div>
+      </header>
+
+      <section class="card">
+        <h2>Configuración rápida</h2>
+        <p class="muted">Edita los datos de Firebase (si quieres otro proyecto) y presiona guardar.</p>
+        <div class="grid two">
+          <div>
+            <label for="firebase-config">Firebase Config (JSON)</label>
+            <textarea id="firebase-config" rows="6"></textarea>
+          </div>
+          <div>
+            <label for="owner-email">Email autorizado</label>
+            <input id="owner-email" type="email" placeholder="tuemail@gmail.com" />
+            <p class="muted">Solo este mail puede guardar datos.</p>
+          </div>
+        </div>
+        <div class="row" style="margin-top: 12px;">
+          <button id="save-config" class="ghost">Guardar configuración</button>
+          <span class="status" id="config-status"></span>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Editores</h2>
+        <div class="row" style="margin-top: 12px;">
+          <input id="new-editor" type="text" placeholder="Nombre del editor" />
+          <button id="add-editor">Agregar editor</button>
+        </div>
+        <div class="list" id="editor-list" style="margin-top: 16px;"></div>
+      </section>
+
+      <section class="card">
+        <h2>Output semanal</h2>
+        <div class="grid two">
+          <div>
+            <label for="week">Semana</label>
+            <input id="week" type="number" min="1" max="53" placeholder="Semana 1" />
+          </div>
+          <div>
+            <label for="week-month">Mes (YYYY-MM)</label>
+            <input id="week-month" type="month" />
+          </div>
+          <div>
+            <label for="editor-select">Editor</label>
+            <select id="editor-select"></select>
+          </div>
+          <div>
+            <label for="minutes">Minutos</label>
+            <input id="minutes" type="number" min="0" value="0" />
+          </div>
+          <div>
+            <label for="seconds">Segundos</label>
+            <input id="seconds" type="number" min="0" max="59" value="0" />
+          </div>
+        </div>
+        <button id="save-week" style="margin-top: 16px;">Guardar semana</button>
+        <div class="list" id="weekly-list" style="margin-top: 16px;"></div>
+      </section>
+
+      <section class="card">
+        <h2>Winners & Top Video (mensual)</h2>
+        <div class="grid two">
+          <div>
+            <label for="winner-month">Mes (YYYY-MM)</label>
+            <input id="winner-month" type="month" />
+          </div>
+          <div>
+            <label for="winner-editor">Editor</label>
+            <select id="winner-editor"></select>
+          </div>
+          <div>
+            <label for="video-title">Nombre del video</label>
+            <input id="video-title" type="text" placeholder="Hook de Producto V1" />
+          </div>
+          <div>
+            <label for="video-link">Link (opcional)</label>
+            <input id="video-link" type="url" placeholder="https://" />
+          </div>
+          <div>
+            <label for="spend">Spend ($)</label>
+            <input id="spend" type="number" min="0" />
+          </div>
+          <div>
+            <label for="roas">ROAS</label>
+            <input id="roas" type="number" min="0" step="0.01" />
+          </div>
+          <div>
+            <label for="compras">Compras</label>
+            <input id="compras" type="number" min="0" />
+          </div>
+          <div>
+            <label for="winner-count">Cantidad de winners</label>
+            <input id="winner-count" type="number" min="0" />
+          </div>
+        </div>
+        <div class="row" style="margin-top: 12px;">
+          <label>
+            <input id="is-best" type="checkbox" /> Marcar como best performer
+          </label>
+        </div>
+        <button id="save-winner" style="margin-top: 16px;">Guardar performance</button>
+        <div class="list" id="winner-list" style="margin-top: 16px;"></div>
+      </section>
+
+      <section class="card">
+        <h2>Backup rápido</h2>
+        <div class="row">
+          <button id="export-btn" class="ghost">Exportar JSON</button>
+          <button id="import-btn" class="secondary">Importar JSON</button>
+          <input id="import-input" type="file" accept="application/json" class="hidden" />
+        </div>
+        <p class="muted">Guarda un Excel usando el JSON exportado y tu planilla.</p>
+      </section>
+
+      <footer>EdTraker Simple · Guarda en Firestore con tu cuenta Google</footer>
+    </div>
+
+    <script type="module">
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+      import {
+        getAuth,
+        GoogleAuthProvider,
+        signInWithPopup,
+        onAuthStateChanged,
+        signOut
+      } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+      import {
+        getFirestore,
+        doc,
+        getDoc,
+        setDoc
+      } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+      const defaultConfig = {
+        apiKey: "AIzaSyCgZK3mlImZCopAkYIWMUsWCELqBiOzgjI",
+        authDomain: "edtraker-c1a42.firebaseapp.com",
+        projectId: "edtraker-c1a42",
+        storageBucket: "edtraker-c1a42.firebasestorage.app",
+        messagingSenderId: "1021877058594",
+        appId: "1:1021877058594:web:f2f17d0fbcabffe70c9e7b",
+        measurementId: "G-MS3E426R55"
+      };
+
+      const DEFAULT_EDITORS = [
+        { id: "1", name: "Joc" },
+        { id: "2", name: "Rod" },
+        { id: "3", name: "Joaquin" },
+        { id: "4", name: "Nik" },
+        { id: "5", name: "Juli" }
+      ];
+
+      const state = {
+        user: null,
+        firebaseApp: null,
+        auth: null,
+        db: null,
+        data: {
+          editors: DEFAULT_EDITORS,
+          weeklyEntries: [],
+          winners: []
+        }
+      };
+
+      const elements = {
+        authStatus: document.getElementById("auth-status"),
+        loginBtn: document.getElementById("login-btn"),
+        logoutBtn: document.getElementById("logout-btn"),
+        firebaseConfig: document.getElementById("firebase-config"),
+        ownerEmail: document.getElementById("owner-email"),
+        saveConfig: document.getElementById("save-config"),
+        configStatus: document.getElementById("config-status"),
+        newEditor: document.getElementById("new-editor"),
+        addEditor: document.getElementById("add-editor"),
+        editorList: document.getElementById("editor-list"),
+        editorSelect: document.getElementById("editor-select"),
+        winnerEditor: document.getElementById("winner-editor"),
+        week: document.getElementById("week"),
+        weekMonth: document.getElementById("week-month"),
+        minutes: document.getElementById("minutes"),
+        seconds: document.getElementById("seconds"),
+        saveWeek: document.getElementById("save-week"),
+        weeklyList: document.getElementById("weekly-list"),
+        winnerMonth: document.getElementById("winner-month"),
+        videoTitle: document.getElementById("video-title"),
+        videoLink: document.getElementById("video-link"),
+        spend: document.getElementById("spend"),
+        roas: document.getElementById("roas"),
+        compras: document.getElementById("compras"),
+        winnerCount: document.getElementById("winner-count"),
+        isBest: document.getElementById("is-best"),
+        saveWinner: document.getElementById("save-winner"),
+        winnerList: document.getElementById("winner-list"),
+        exportBtn: document.getElementById("export-btn"),
+        importBtn: document.getElementById("import-btn"),
+        importInput: document.getElementById("import-input")
+      };
+
+      const localConfig = JSON.parse(localStorage.getItem("edtraker_config") || "null") || defaultConfig;
+      elements.firebaseConfig.value = JSON.stringify(localConfig, null, 2);
+      elements.ownerEmail.value = localStorage.getItem("edtraker_owner") || "niksasbon6@gmail.com";
+
+      const showStatus = (message, warning = false) => {
+        elements.configStatus.textContent = message;
+        elements.configStatus.classList.toggle("warning", warning);
+      };
+
+      const initFirebase = () => {
+        const config = JSON.parse(elements.firebaseConfig.value);
+        if (state.firebaseApp) return;
+        state.firebaseApp = initializeApp(config);
+        state.auth = getAuth(state.firebaseApp);
+        state.db = getFirestore(state.firebaseApp);
+      };
+
+      const canWrite = () => {
+        const owner = elements.ownerEmail.value.trim().toLowerCase();
+        return state.user && state.user.email && state.user.email.toLowerCase() === owner;
+      };
+
+      const saveConfig = () => {
+        try {
+          JSON.parse(elements.firebaseConfig.value);
+          localStorage.setItem("edtraker_config", elements.firebaseConfig.value);
+          localStorage.setItem("edtraker_owner", elements.ownerEmail.value.trim());
+          showStatus("Configuración guardada.", false);
+        } catch (error) {
+          showStatus("Config inválida. Revisá el JSON.", true);
+        }
+      };
+
+      const loadData = async () => {
+        if (!state.user) return;
+        const docRef = doc(state.db, "edtraker", state.user.uid);
+        const snapshot = await getDoc(docRef);
+        if (snapshot.exists()) {
+          state.data = {
+            editors: snapshot.data().editors || DEFAULT_EDITORS,
+            weeklyEntries: snapshot.data().weeklyEntries || [],
+            winners: snapshot.data().winners || []
+          };
+        } else {
+          state.data = { editors: DEFAULT_EDITORS, weeklyEntries: [], winners: [] };
+        }
+        render();
+      };
+
+      const saveData = async () => {
+        if (!state.user || !canWrite()) return;
+        const docRef = doc(state.db, "edtraker", state.user.uid);
+        await setDoc(docRef, state.data, { merge: true });
+      };
+
+      const renderEditors = () => {
+        const options = state.data.editors
+          .map(editor => `<option value="${editor.id}">${editor.name}</option>`)
+          .join("");
+        elements.editorSelect.innerHTML = options;
+        elements.winnerEditor.innerHTML = options;
+
+        elements.editorList.innerHTML = state.data.editors
+          .map(
+            editor => `
+              <div class="list-item">
+                <div class="row" style="justify-content: space-between;">
+                  <div>
+                    <strong>${editor.name}</strong>
+                    <span class="muted">ID: ${editor.id}</span>
+                  </div>
+                  <button class="danger" data-delete="${editor.id}">Borrar editor</button>
+                </div>
+              </div>
+            `
+          )
+          .join("");
+      };
+
+      const renderWeekly = () => {
+        elements.weeklyList.innerHTML = state.data.weeklyEntries
+          .map(entry => {
+            const editor = state.data.editors.find(e => e.id === entry.editorId);
+            return `
+              <div class="list-item">
+                <strong>${editor ? editor.name : "(sin editor)"}</strong>
+                <div class="muted">Semana ${entry.week} · ${entry.month || ""}</div>
+                <div>${entry.minutes}m ${entry.seconds}s</div>
+              </div>
+            `;
+          })
+          .join("") || "<p class=\"muted\">Sin datos aún.</p>";
+      };
+
+      const renderWinners = () => {
+        elements.winnerList.innerHTML = state.data.winners
+          .map(entry => {
+            const editor = state.data.editors.find(e => e.id === entry.editorId);
+            return `
+              <div class="list-item">
+                <strong>${editor ? editor.name : "(sin editor)"} · ${entry.month}</strong>
+                <div class="muted">${entry.title || "Sin título"}</div>
+                <div>${entry.winnerCount || 0} winners · Spend ${entry.spend || 0} · ROAS ${entry.roas || 0} · Compras ${entry.compras || 0}</div>
+                ${entry.link ? `<a href="${entry.link}" target="_blank">Abrir link</a>` : ""}
+              </div>
+            `;
+          })
+          .join("") || "<p class=\"muted\">Sin datos aún.</p>";
+      };
+
+      const render = () => {
+        renderEditors();
+        renderWeekly();
+        renderWinners();
+      };
+
+      elements.saveConfig.addEventListener("click", () => {
+        saveConfig();
+      });
+
+      elements.loginBtn.addEventListener("click", async () => {
+        initFirebase();
+        const provider = new GoogleAuthProvider();
+        await signInWithPopup(state.auth, provider);
+      });
+
+      elements.logoutBtn.addEventListener("click", async () => {
+        await signOut(state.auth);
+      });
+
+      elements.addEditor.addEventListener("click", async () => {
+        const name = elements.newEditor.value.trim();
+        if (!name) return;
+        state.data.editors.push({ id: crypto.randomUUID(), name });
+        elements.newEditor.value = "";
+        render();
+        await saveData();
+      });
+
+      elements.editorList.addEventListener("click", async event => {
+        const button = event.target.closest("button[data-delete]");
+        if (!button) return;
+        const id = button.dataset.delete;
+        const editor = state.data.editors.find(e => e.id === id);
+        if (!editor) return;
+        const confirmed = window.confirm(
+          `¿Estas seguro? Se va a borrar toda la data de ${editor.name}.`
+        );
+        if (!confirmed) return;
+        state.data.editors = state.data.editors.filter(e => e.id !== id);
+        state.data.weeklyEntries = state.data.weeklyEntries.filter(entry => entry.editorId !== id);
+        state.data.winners = state.data.winners.filter(entry => entry.editorId !== id);
+        render();
+        await saveData();
+      });
+
+      elements.saveWeek.addEventListener("click", async () => {
+        const editorId = elements.editorSelect.value;
+        const week = Number(elements.week.value || 0);
+        const month = elements.weekMonth.value;
+        const minutes = Number(elements.minutes.value || 0);
+        const seconds = Number(elements.seconds.value || 0);
+        if (!editorId || week <= 0) return;
+        state.data.weeklyEntries.push({
+          id: crypto.randomUUID(),
+          editorId,
+          week,
+          month,
+          minutes,
+          seconds
+        });
+        render();
+        await saveData();
+      });
+
+      elements.saveWinner.addEventListener("click", async () => {
+        const editorId = elements.winnerEditor.value;
+        const month = elements.winnerMonth.value;
+        if (!editorId || !month) return;
+        state.data.winners.push({
+          id: crypto.randomUUID(),
+          editorId,
+          month,
+          title: elements.videoTitle.value.trim(),
+          link: elements.videoLink.value.trim(),
+          spend: Number(elements.spend.value || 0),
+          roas: Number(elements.roas.value || 0),
+          compras: Number(elements.compras.value || 0),
+          winnerCount: Number(elements.winnerCount.value || 0),
+          isBest: elements.isBest.checked
+        });
+        render();
+        await saveData();
+      });
+
+      elements.exportBtn.addEventListener("click", () => {
+        const blob = new Blob([JSON.stringify(state.data, null, 2)], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = `edtraker-backup-${new Date().toISOString().slice(0, 10)}.json`;
+        link.click();
+      });
+
+      elements.importBtn.addEventListener("click", () => {
+        elements.importInput.click();
+      });
+
+      elements.importInput.addEventListener("change", async event => {
+        const file = event.target.files[0];
+        if (!file) return;
+        const text = await file.text();
+        state.data = JSON.parse(text);
+        render();
+        await saveData();
+      });
+
+      initFirebase();
+      onAuthStateChanged(state.auth, user => {
+        state.user = user;
+        if (user) {
+          elements.authStatus.textContent = `Conectado: ${user.email}`;
+          elements.loginBtn.classList.add("hidden");
+          elements.logoutBtn.classList.remove("hidden");
+          loadData();
+        } else {
+          elements.authStatus.textContent = "No conectado";
+          elements.loginBtn.classList.remove("hidden");
+          elements.logoutBtn.classList.add("hidden");
+        }
+      });
+    </script>
+  </body>
+</html>

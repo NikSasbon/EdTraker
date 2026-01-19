@@ -190,6 +190,9 @@ const App: React.FC = () => {
   // Fix: Added missing deleteEditor function
   const deleteEditor = (id: string) => {
     setEditors(prev => prev.filter(e => e.id !== id));
+    setEntries(prev => prev.filter(entry => entry.editorId !== id));
+    setWinningVideos(prev => prev.filter(video => video.editorId !== id));
+    setMonthlySummaries(prev => prev.filter(summary => summary.editorId !== id));
   };
 
   // Fix: Added missing updateEditorName function
