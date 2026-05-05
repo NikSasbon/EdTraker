@@ -6,276 +6,761 @@ endobj
 << /Type /Pages /Kids [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R] /Count 5 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 9 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 10 0 R >>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 10 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 11 0 R >>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 11 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 12 0 R >>
 endobj
 6 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 12 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 13 0 R >>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 13 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 8 0 R /F2 9 0 R >> >> /Contents 14 0 R >>
 endobj
 8 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 9 0 obj
-<< /Length 986 >>
-stream
-BT
-/F1 10 Tf
-42 805 Td
-13 TL
-(Hoja 1/5 - Portada y alcance) Tj
-T*
-(Fecha de emision: 2026-05-05) Tj
-T*
-(Derrotero detallado: Tigre \\\(Guarderia Laura\\\) -> Isla Martin Garcia) Tj
-T*
-() Tj
-T*
-(ALCANCE: material de planificacion y briefing.) Tj
-T*
-(NO reemplaza cartas SHN, avisos a los navegantes ni instrucciones PNA.) Tj
-T*
-() Tj
-T*
-(Formato de este documento:) Tj
-T*
-(- Hoja 2: Tabla de waypoints maestros \\\(WGS84\\\).) Tj
-T*
-(- Hoja 3: Tramo A-B con referencias de boyas/puntos notables.) Tj
-T*
-(- Hoja 4: Tramo C con control de navegacion y referencias.) Tj
-T*
-(- Hoja 5: Tramo D \\\(aproximacion\\\) + checklist final.) Tj
-T*
-() Tj
-T*
-(Criterios operativos recomendados:) Tj
-T*
-(- Mantenerse SIEMPRE en canal balizado vigente.) Tj
-T*
-(- Verificar calado/sonda en tiempo real y estado de marea/corriente.) Tj
-T*
-(- Priorizar boyado observado en sitio sobre cualquier tabla estatica.) Tj
-T*
-(- Actualizar derrota segun meteorologia \\\(niebla, sudestada, tormentas\\\).) Tj
-T*
-ET
-endstream
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 10 0 obj
-<< /Length 1149 >>
+<< /Length 10112 >>
 stream
-BT
-/F1 10 Tf
-42 805 Td
-13 TL
-(Hoja 2/5 - Waypoints maestros \(WGS84 aprox.\)) Tj
-T*
-(Tabla base para carga en plotter \\\(verificar antes de zarpar\\\):) Tj
-T*
-() Tj
-T*
-(WP1  Salida Guarderia Laura               3425.8'S   5834.7'W) Tj
-T*
-(WP2  Rio Lujan medio \\\(ref\\\)              3424.9'S   5836.6'W) Tj
-T*
-(WP3  Ingreso Canal Gobernador Arias       3423.7'S   5840.8'W) Tj
-T*
-(WP4  Arias tramo medio \\\(ref\\\)            3421.2'S   5840.7'W) Tj
-T*
-(WP5  Egreso Arias / P. de las Palmas      3418.4'S   5840.6'W) Tj
-T*
-(WP6  Palmas aguas abajo \\\(ref\\\)           3412.4'S   5830.5'W) Tj
-T*
-(WP7  Zona Oyarbide \\\(ref\\\)                3405.5'S   5822.0'W) Tj
-T*
-(WP8  Control intermedio                   3409.8'S   5818.5'W) Tj
-T*
-(WP9  Aprox. canal acceso Martin Garcia    3410.8'S   5816.5'W) Tj
-T*
-(WP10 Puerto Isla Martin Garcia            3411.8'S   5815.1'W) Tj
-T*
-() Tj
-T*
-(Observaciones:) Tj
-T*
-(- Coordenadas aproximadas para orientacion general.) Tj
-T*
-(- Puede haber relocalizacion de boyas por dragado/mantenimiento.) Tj
-T*
-(- Confirmar ETA/combustible con velocidad real y corriente efectiva.) Tj
-T*
-ET
+0.960 0.940 0.860 rg 0.960 0.940 0.860 RG
+0.00 0.00 842.00 595.00 re f
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+0.00 520.00 842.00 75.00 re f
+1.000 1.000 1.000 rg 1.000 1.000 1.000 RG
+BT /F2 17 Tf 22.00 558.00 Td (Derrota auxiliar Tigre - Isla Martin Garcia | Hoja 1/5 | Vista general) Tj ET
+0.820 0.930 0.940 rg 0.820 0.930 0.940 RG
+BT /F1 10 Tf 22.00 536.00 Td (Desde Guarderia Nautica Laura / Bigua, Tupac Amaru 1130, Rincon de Milberg) Tj ET
+0.970 0.970 0.950 rg 0.970 0.970 0.950 RG
+610.00 535.00 205.00 47.00 re f
+0.700 0.080 0.080 rg 0.700 0.080 0.080 RG
+BT /F2 10 Tf 620.00 566.00 Td (NO ES CARTA OFICIAL) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 552.00 Td (Usar cartas SHN vigentes, avisos,) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 540.00 Td (mareas y verificacion a bordo.) Tj ET
+0.820 0.890 0.740 rg 0.820 0.890 0.740 RG
+22.00 48.00 570.00 445.00 re f
+0.820 0.940 0.950 rg 0.820 0.940 0.950 RG
+22.00 181.50 m 107.50 226.00 l 215.80 208.20 l 318.40 234.90 l 409.60 212.65 l 500.80 248.25 l 592.00 226.00 l 592.00 359.50 l 489.40 323.90 l 392.50 341.70 l 295.60 315.00 l 221.50 350.60 l 130.30 323.90 l 22.00 377.30 l h f
+0.650 0.780 0.730 rg 0.650 0.780 0.730 RG
+0.50 w
+117.00 48.00 m 117.00 493.00 l S
+22.00 122.17 m 592.00 122.17 l S
+212.00 48.00 m 212.00 493.00 l S
+22.00 196.33 m 592.00 196.33 l S
+307.00 48.00 m 307.00 493.00 l S
+22.00 270.50 m 592.00 270.50 l S
+402.00 48.00 m 402.00 493.00 l S
+22.00 344.67 m 592.00 344.67 l S
+497.00 48.00 m 497.00 493.00 l S
+22.00 418.83 m 592.00 418.83 l S
+0.250 0.450 0.460 rg 0.250 0.450 0.460 RG
+0.80 w
+22.00 48.00 570.00 445.00 re S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+4.50 w
+183.54 70.25 m 147.40 86.94 l 67.60 109.19 l 69.88 153.69 l 71.36 207.42 l 263.34 318.67 l 424.76 446.61 l 500.80 348.37 l 529.30 348.37 l 555.86 329.80 l S
+0.950 0.580 0.050 rg 0.950 0.580 0.050 RG
+5.50 w
+67.60 109.19 m 69.88 153.69 l S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+2.50 w
+67.60 109.19 m 69.88 153.69 l S
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+187.74 70.25 m 187.74 72.57 185.86 74.45 183.54 74.45 c 181.22 74.45 179.34 72.57 179.34 70.25 c 179.34 67.93 181.22 66.05 183.54 66.05 c 185.86 66.05 187.74 67.93 187.74 70.25 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 189.54 74.25 Td (WP1) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+151.60 86.94 m 151.60 89.26 149.72 91.14 147.40 91.14 c 145.08 91.14 143.20 89.26 143.20 86.94 c 143.20 84.62 145.08 82.74 147.40 82.74 c 149.72 82.74 151.60 84.62 151.60 86.94 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 153.40 90.94 Td (WP2) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+71.80 109.19 m 71.80 111.51 69.92 113.39 67.60 113.39 c 65.28 113.39 63.40 111.51 63.40 109.19 c 63.40 106.87 65.28 104.99 67.60 104.99 c 69.92 104.99 71.80 106.87 71.80 109.19 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 73.60 113.19 Td (WP3) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+74.08 153.69 m 74.08 156.01 72.20 157.89 69.88 157.89 c 67.56 157.89 65.68 156.01 65.68 153.69 c 65.68 151.37 67.56 149.49 69.88 149.49 c 72.20 149.49 74.08 151.37 74.08 153.69 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 75.88 157.69 Td (WP4) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+75.56 207.42 m 75.56 209.74 73.68 211.62 71.36 211.62 c 69.04 211.62 67.16 209.74 67.16 207.42 c 67.16 205.10 69.04 203.22 71.36 203.22 c 73.68 203.22 75.56 205.10 75.56 207.42 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 77.36 211.42 Td (WP5) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+267.54 318.67 m 267.54 320.99 265.66 322.87 263.34 322.87 c 261.02 322.87 259.14 320.99 259.14 318.67 c 259.14 316.35 261.02 314.47 263.34 314.47 c 265.66 314.47 267.54 316.35 267.54 318.67 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 269.34 322.67 Td (WP6) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+428.96 446.61 m 428.96 448.93 427.08 450.81 424.76 450.81 c 422.44 450.81 420.56 448.93 420.56 446.61 c 420.56 444.29 422.44 442.41 424.76 442.41 c 427.08 442.41 428.96 444.29 428.96 446.61 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 430.76 450.61 Td (WP7) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+505.00 348.37 m 505.00 350.69 503.12 352.57 500.80 352.57 c 498.48 352.57 496.60 350.69 496.60 348.37 c 496.60 346.06 498.48 344.17 500.80 344.17 c 503.12 344.17 505.00 346.06 505.00 348.37 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 506.80 352.37 Td (WP8) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+533.50 348.37 m 533.50 350.69 531.62 352.57 529.30 352.57 c 526.98 352.57 525.10 350.69 525.10 348.37 c 525.10 346.06 526.98 344.17 529.30 344.17 c 531.62 344.17 533.50 346.06 533.50 348.37 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 535.30 352.37 Td (WP9) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+560.06 329.80 m 560.06 332.12 558.18 334.00 555.86 334.00 c 553.54 334.00 551.66 332.12 551.66 329.80 c 551.66 327.48 553.54 325.60 555.86 325.60 c 558.18 325.60 560.06 327.48 560.06 329.80 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 561.86 333.80 Td (WP10) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 227.20 270.50 Td (Parana de las Palmas) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 136.00 208.20 Td (Canal Arias) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 466.60 341.70 Td (Canal Lynch / Petrel) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 523.60 368.40 Td (Isla Martin Garcia) Tj ET
+0.950 0.980 0.980 rg 0.950 0.980 0.980 RG
+574.00 450.00 m 574.00 461.05 565.05 470.00 554.00 470.00 c 542.95 470.00 534.00 461.05 534.00 450.00 c 534.00 438.95 542.95 430.00 554.00 430.00 c 565.05 430.00 574.00 438.95 574.00 450.00 c B
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+2.00 w
+554.00 465.00 m 548.00 442.00 l 554.00 446.00 l 560.00 442.00 l h f
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+BT /F2 10 Tf 550.00 454.00 Td (N) Tj ET
+1.50 w
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+432.00 76.00 m 522.00 76.00 l S
+432.00 70.00 m 432.00 82.00 l S
+522.00 70.00 m 522.00 82.00 l S
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+BT /F2 7 Tf 457.00 61.00 Td (escala esquematica) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 492.00 Td (DATOS DE LA HOJA) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 474.00 Td (- Uso: briefing y planificacion previa.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 460.00 Td (- Calado de referencia: 0,60 m.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 446.00 Td (- Distancia total estimada: 60-80 mn.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 432.00 Td (- Validar SHN + PNA antes de zarpar.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 418.00 Td (- No es carta oficial ni reemplaza plotter.) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 398.00 Td (LEGS / PUNTOS CLAVE) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 380.00 Td (- WP1-WP3: Delta / Rio Lujan) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 366.00 Td (- WP3-WP5: Canal Arias) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 352.00 Td (- WP5-WP7: Parana de las Palmas) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 338.00 Td (- WP7-WP10: acceso Martin Garcia) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 316.00 Td (WAYPOINTS VISIBLES) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 298.00 Td (WP1 Guarderia Laura / salida) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 288.00 Td (34.4300S  58.5783W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 278.00 Td (Zarpe lento, trafico local) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 265.00 Td (WP2 Rio Lujan) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 255.00 Td (34.4150S  58.6100W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 245.00 Td (Control de trafico y estelas) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 232.00 Td (WP3 Ingreso Canal Arias) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 222.00 Td (34.3950S  58.6800W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 212.00 Td (Preparar tramo angosto) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 199.00 Td (WP4 Arias medio) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 189.00 Td (34.3550S  58.6780W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 179.00 Td (Curvas, vigia activa) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 166.00 Td (WP5 Arias / Parana Palmas) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 156.00 Td (34.3067S  58.6767W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 146.00 Td (Egreso a canal principal) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 133.00 Td (WP6 Palmas control) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 123.00 Td (34.2067S  58.5083W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 113.00 Td (Sonda + balizamiento) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 100.00 Td (WP7 Zona Oyarbide) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 90.00 Td (34.0917S  58.3667W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 80.00 Td (No cortar bancos) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 67.00 Td (WP8 Canal Lynch / Petrel) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 57.00 Td (34.1800S  58.3000W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 47.00 Td (Ajustar a canal habilitado) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F2 8 Tf 22.00 24.00 Td (Derrota auxiliar: posiciones aproximadas. Boyas dibujadas como referencia grafica; validar balizamiento real vigente.) Tj ET
 endstream
 endobj
 11 0 obj
-<< /Length 1002 >>
+<< /Length 6729 >>
 stream
-BT
-/F1 10 Tf
-42 805 Td
-13 TL
-(Hoja 3/5 - Tramo A-B \(Tigre -> Canal Arias\)) Tj
-T*
-(Legs sugeridos \\\(orientativo\\\):) Tj
-T*
-(L1: WP1 -> WP2 | Delta urbano | trafico intenso recreo/servicios.) Tj
-T*
-(L2: WP2 -> WP3 | Preparar ingreso a Arias por canal principal.) Tj
-T*
-(L3: WP3 -> WP4 | Canal angosto: velocidad moderada y vigia activa.) Tj
-T*
-(L4: WP4 -> WP5 | Salida a Parana de las Palmas.) Tj
-T*
-() Tj
-T*
-(Boyas y referencias practicas:) Tj
-T*
-(- Identificar marcas laterales vigentes antes de cada curva importante.) Tj
-T*
-(- Evitar navegar fuera del veril balizado aunque haya espejo de agua.) Tj
-T*
-(- En cruces con trafico mayor: maniobra previsible y distancia segura.) Tj
-T*
-() Tj
-T*
-(Control de riesgo del tramo:) Tj
-T*
-(- Riesgo principal: estelas, cruces y visibilidad reducida en curvas.) Tj
-T*
-(- Mitigacion: vigia en proa, VHF en escucha y reduccion preventiva.) Tj
-T*
-() Tj
-T*
-(Comunicaciones recomendadas:) Tj
-T*
-(- Reporte interno de paso por WP3 y WP5 \\\(bitacora\\\).) Tj
-T*
-ET
+0.960 0.940 0.860 rg 0.960 0.940 0.860 RG
+0.00 0.00 842.00 595.00 re f
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+0.00 520.00 842.00 75.00 re f
+1.000 1.000 1.000 rg 1.000 1.000 1.000 RG
+BT /F2 17 Tf 22.00 558.00 Td (Hoja 2/5 | Tigre - Rio Lujan - Ingreso Canal Arias) Tj ET
+0.820 0.930 0.940 rg 0.820 0.930 0.940 RG
+BT /F1 10 Tf 22.00 536.00 Td (Desde Guarderia Nautica Laura / Bigua, Tupac Amaru 1130, Rincon de Milberg) Tj ET
+0.970 0.970 0.950 rg 0.970 0.970 0.950 RG
+610.00 535.00 205.00 47.00 re f
+0.700 0.080 0.080 rg 0.700 0.080 0.080 RG
+BT /F2 10 Tf 620.00 566.00 Td (NO ES CARTA OFICIAL) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 552.00 Td (Usar cartas SHN vigentes, avisos,) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 540.00 Td (mareas y verificacion a bordo.) Tj ET
+0.820 0.890 0.740 rg 0.820 0.890 0.740 RG
+22.00 48.00 570.00 445.00 re f
+0.820 0.940 0.950 rg 0.820 0.940 0.950 RG
+22.00 181.50 m 107.50 226.00 l 215.80 208.20 l 318.40 234.90 l 409.60 212.65 l 500.80 248.25 l 592.00 226.00 l 592.00 359.50 l 489.40 323.90 l 392.50 341.70 l 295.60 315.00 l 221.50 350.60 l 130.30 323.90 l 22.00 377.30 l h f
+0.650 0.780 0.730 rg 0.650 0.780 0.730 RG
+0.50 w
+117.00 48.00 m 117.00 493.00 l S
+22.00 122.17 m 592.00 122.17 l S
+212.00 48.00 m 212.00 493.00 l S
+22.00 196.33 m 592.00 196.33 l S
+307.00 48.00 m 307.00 493.00 l S
+22.00 270.50 m 592.00 270.50 l S
+402.00 48.00 m 402.00 493.00 l S
+22.00 344.67 m 592.00 344.67 l S
+497.00 48.00 m 497.00 493.00 l S
+22.00 418.83 m 592.00 418.83 l S
+0.250 0.450 0.460 rg 0.250 0.450 0.460 RG
+0.80 w
+22.00 48.00 570.00 445.00 re S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+4.50 w
+484.46 122.17 m 364.00 233.42 l 98.00 381.75 l 105.60 678.42 l S
+0.950 0.580 0.050 rg 0.950 0.580 0.050 RG
+5.50 w
+98.00 381.75 m 105.60 678.42 l S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+2.50 w
+98.00 381.75 m 105.60 678.42 l S
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+488.66 122.17 m 488.66 124.49 486.78 126.37 484.46 126.37 c 482.14 126.37 480.26 124.49 480.26 122.17 c 480.26 119.85 482.14 117.97 484.46 117.97 c 486.78 117.97 488.66 119.85 488.66 122.17 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 490.46 126.17 Td (WP1) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+368.20 233.42 m 368.20 235.74 366.32 237.62 364.00 237.62 c 361.68 237.62 359.80 235.74 359.80 233.42 c 359.80 231.10 361.68 229.22 364.00 229.22 c 366.32 229.22 368.20 231.10 368.20 233.42 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 370.00 237.42 Td (WP2) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+102.20 381.75 m 102.20 384.07 100.32 385.95 98.00 385.95 c 95.68 385.95 93.80 384.07 93.80 381.75 c 93.80 379.43 95.68 377.55 98.00 377.55 c 100.32 377.55 102.20 379.43 102.20 381.75 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 104.00 385.75 Td (WP3) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+109.80 678.42 m 109.80 680.74 107.92 682.62 105.60 682.62 c 103.28 682.62 101.40 680.74 101.40 678.42 c 101.40 676.10 103.28 674.22 105.60 674.22 c 107.92 674.22 109.80 676.10 109.80 678.42 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 111.60 682.42 Td (WP4) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 227.20 270.50 Td (Parana de las Palmas) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 136.00 208.20 Td (Canal Arias) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 466.60 341.70 Td (Canal Lynch / Petrel) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 523.60 368.40 Td (Isla Martin Garcia) Tj ET
+0.950 0.980 0.980 rg 0.950 0.980 0.980 RG
+574.00 450.00 m 574.00 461.05 565.05 470.00 554.00 470.00 c 542.95 470.00 534.00 461.05 534.00 450.00 c 534.00 438.95 542.95 430.00 554.00 430.00 c 565.05 430.00 574.00 438.95 574.00 450.00 c B
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+2.00 w
+554.00 465.00 m 548.00 442.00 l 554.00 446.00 l 560.00 442.00 l h f
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+BT /F2 10 Tf 550.00 454.00 Td (N) Tj ET
+1.50 w
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+432.00 76.00 m 522.00 76.00 l S
+432.00 70.00 m 432.00 82.00 l S
+522.00 70.00 m 522.00 82.00 l S
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+BT /F2 7 Tf 457.00 61.00 Td (escala esquematica) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 492.00 Td (DATOS DE LA HOJA) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 474.00 Td (- Navegar con baja velocidad al salir.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 460.00 Td (- Atento a muelles, cruces y estelas.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 446.00 Td (- Identificar marcas laterales vigentes.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 432.00 Td (- Punto clave: WP3 ingreso Arias.) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 412.00 Td (LEGS / PUNTOS CLAVE) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 394.00 Td (- L1 WP1->WP2: salida urbana) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 380.00 Td (- L2 WP2->WP3: preparar ingreso) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 366.00 Td (- L3 WP3->WP4: canal angosto) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 344.00 Td (WAYPOINTS VISIBLES) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 326.00 Td (WP1 Guarderia Laura / salida) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 316.00 Td (34.4300S  58.5783W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 306.00 Td (Zarpe lento, trafico local) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 293.00 Td (WP2 Rio Lujan) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 283.00 Td (34.4150S  58.6100W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 273.00 Td (Control de trafico y estelas) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 260.00 Td (WP3 Ingreso Canal Arias) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 250.00 Td (34.3950S  58.6800W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 240.00 Td (Preparar tramo angosto) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 227.00 Td (WP4 Arias medio) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 217.00 Td (34.3550S  58.6780W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 207.00 Td (Curvas, vigia activa) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F2 8 Tf 22.00 24.00 Td (Derrota auxiliar: posiciones aproximadas. Boyas dibujadas como referencia grafica; validar balizamiento real vigente.) Tj ET
 endstream
 endobj
 12 0 obj
-<< /Length 1034 >>
+<< /Length 7383 >>
 stream
-BT
-/F1 10 Tf
-42 805 Td
-13 TL
-(Hoja 4/5 - Tramo C \(Parana de las Palmas\)) Tj
-T*
-(Legs sugeridos \\\(orientativo\\\):) Tj
-T*
-(L5: WP5 -> WP6 | Mantener eje del canal y control de sonda.) Tj
-T*
-(L6: WP6 -> WP7 | Navegacion mas abierta, atento a viento transversal.) Tj
-T*
-(L7: WP7 -> WP8 | Revisar deriva y compensar abatimiento.) Tj
-T*
-() Tj
-T*
-(Boyado / referencias de seguridad:) Tj
-T*
-(- Seguir secuencia real de boyas observadas \\\(prioridad absoluta\\\).) Tj
-T*
-(- Si hay duda de balizamiento: bajar velocidad y validar posicion GPS+sonda.) Tj
-T*
-(- No cortar meandros fuera de canal marcado.) Tj
-T*
-() Tj
-T*
-(Parametros de control recomendados:) Tj
-T*
-(- Registro horario: posicion, velocidad fondo \\\(SOG\\\), rumbo fondo \\\(COG\\\).) Tj
-T*
-(- Comparar consumo real vs planificado cada 45-60 min.) Tj
-T*
-() Tj
-T*
-(Condiciones meteo-hidrograficas criticas:) Tj
-T*
-(- Niebla: considerar espera o fondeo seguro hasta mejorar visibilidad.) Tj
-T*
-(- Sudestada/tormenta: reevaluar continuidad antes de entrar al tramo D.) Tj
-T*
-ET
+0.960 0.940 0.860 rg 0.960 0.940 0.860 RG
+0.00 0.00 842.00 595.00 re f
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+0.00 520.00 842.00 75.00 re f
+1.000 1.000 1.000 rg 1.000 1.000 1.000 RG
+BT /F2 17 Tf 22.00 558.00 Td (Hoja 3/5 | Canal Arias - Parana de las Palmas) Tj ET
+0.820 0.930 0.940 rg 0.820 0.930 0.940 RG
+BT /F1 10 Tf 22.00 536.00 Td (Desde Guarderia Nautica Laura / Bigua, Tupac Amaru 1130, Rincon de Milberg) Tj ET
+0.970 0.970 0.950 rg 0.970 0.970 0.950 RG
+610.00 535.00 205.00 47.00 re f
+0.700 0.080 0.080 rg 0.700 0.080 0.080 RG
+BT /F2 10 Tf 620.00 566.00 Td (NO ES CARTA OFICIAL) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 552.00 Td (Usar cartas SHN vigentes, avisos,) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 540.00 Td (mareas y verificacion a bordo.) Tj ET
+0.820 0.890 0.740 rg 0.820 0.890 0.740 RG
+22.00 48.00 570.00 445.00 re f
+0.820 0.940 0.950 rg 0.820 0.940 0.950 RG
+22.00 181.50 m 107.50 226.00 l 215.80 208.20 l 318.40 234.90 l 409.60 212.65 l 500.80 248.25 l 592.00 226.00 l 592.00 359.50 l 489.40 323.90 l 392.50 341.70 l 295.60 315.00 l 221.50 350.60 l 130.30 323.90 l 22.00 377.30 l h f
+0.650 0.780 0.730 rg 0.650 0.780 0.730 RG
+0.50 w
+117.00 48.00 m 117.00 493.00 l S
+22.00 122.17 m 592.00 122.17 l S
+212.00 48.00 m 212.00 493.00 l S
+22.00 196.33 m 592.00 196.33 l S
+307.00 48.00 m 307.00 493.00 l S
+22.00 270.50 m 592.00 270.50 l S
+402.00 48.00 m 402.00 493.00 l S
+22.00 344.67 m 592.00 344.67 l S
+497.00 48.00 m 497.00 493.00 l S
+22.00 418.83 m 592.00 418.83 l S
+0.250 0.450 0.460 rg 0.250 0.450 0.460 RG
+0.80 w
+22.00 48.00 570.00 445.00 re S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+4.50 w
+73.82 66.54 m 79.00 214.88 l 82.37 393.99 l 518.68 764.82 l 885.55 1191.28 l S
+0.950 0.580 0.050 rg 0.950 0.580 0.050 RG
+5.50 w
+82.37 393.99 m 518.68 764.82 l S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+2.50 w
+82.37 393.99 m 518.68 764.82 l S
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+78.02 66.54 m 78.02 68.86 76.14 70.74 73.82 70.74 c 71.50 70.74 69.62 68.86 69.62 66.54 c 69.62 64.22 71.50 62.34 73.82 62.34 c 76.14 62.34 78.02 64.22 78.02 66.54 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 79.82 70.54 Td (WP3) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+83.20 214.88 m 83.20 217.19 81.32 219.08 79.00 219.08 c 76.68 219.08 74.80 217.19 74.80 214.88 c 74.80 212.56 76.68 210.68 79.00 210.68 c 81.32 210.68 83.20 212.56 83.20 214.88 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 85.00 218.88 Td (WP4) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+86.57 393.99 m 86.57 396.31 84.69 398.19 82.37 398.19 c 80.05 398.19 78.17 396.31 78.17 393.99 c 78.17 391.67 80.05 389.79 82.37 389.79 c 84.69 389.79 86.57 391.67 86.57 393.99 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 88.37 397.99 Td (WP5) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+522.88 764.82 m 522.88 767.14 521.00 769.02 518.68 769.02 c 516.36 769.02 514.48 767.14 514.48 764.82 c 514.48 762.50 516.36 760.62 518.68 760.62 c 521.00 760.62 522.88 762.50 522.88 764.82 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 524.68 768.82 Td (WP6) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+889.75 1191.28 m 889.75 1193.60 887.87 1195.48 885.55 1195.48 c 883.23 1195.48 881.35 1193.60 881.35 1191.28 c 881.35 1188.96 883.23 1187.08 885.55 1187.08 c 887.87 1187.08 889.75 1188.96 889.75 1191.28 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 891.55 1195.28 Td (WP7) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 227.20 270.50 Td (Parana de las Palmas) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 136.00 208.20 Td (Canal Arias) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 466.60 341.70 Td (Canal Lynch / Petrel) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 523.60 368.40 Td (Isla Martin Garcia) Tj ET
+0.950 0.980 0.980 rg 0.950 0.980 0.980 RG
+574.00 450.00 m 574.00 461.05 565.05 470.00 554.00 470.00 c 542.95 470.00 534.00 461.05 534.00 450.00 c 534.00 438.95 542.95 430.00 554.00 430.00 c 565.05 430.00 574.00 438.95 574.00 450.00 c B
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+2.00 w
+554.00 465.00 m 548.00 442.00 l 554.00 446.00 l 560.00 442.00 l h f
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+BT /F2 10 Tf 550.00 454.00 Td (N) Tj ET
+1.50 w
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+432.00 76.00 m 522.00 76.00 l S
+432.00 70.00 m 432.00 82.00 l S
+522.00 70.00 m 522.00 82.00 l S
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+BT /F2 7 Tf 457.00 61.00 Td (escala esquematica) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 492.00 Td (DATOS DE LA HOJA) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 474.00 Td (- Curvas cerradas: vigia y reduccion.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 460.00 Td (- Controlar sonda antes de abrir rumbo.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 446.00 Td (- No salir del veril balizado.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 432.00 Td (- WP5: salida a Palmas.) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 412.00 Td (LEGS / PUNTOS CLAVE) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 394.00 Td (- L3 WP3->WP4: Arias medio) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 380.00 Td (- L4 WP4->WP5: salida Arias) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 366.00 Td (- L5 WP5->WP6: Palmas) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 352.00 Td (- L6 WP6->WP7: control abierto) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 330.00 Td (WAYPOINTS VISIBLES) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 312.00 Td (WP3 Ingreso Canal Arias) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 302.00 Td (34.3950S  58.6800W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 292.00 Td (Preparar tramo angosto) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 279.00 Td (WP4 Arias medio) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 269.00 Td (34.3550S  58.6780W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 259.00 Td (Curvas, vigia activa) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 246.00 Td (WP5 Arias / Parana Palmas) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 236.00 Td (34.3067S  58.6767W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 226.00 Td (Egreso a canal principal) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 213.00 Td (WP6 Palmas control) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 203.00 Td (34.2067S  58.5083W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 193.00 Td (Sonda + balizamiento) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 180.00 Td (WP7 Zona Oyarbide) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 170.00 Td (34.0917S  58.3667W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 160.00 Td (No cortar bancos) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F2 8 Tf 22.00 24.00 Td (Derrota auxiliar: posiciones aproximadas. Boyas dibujadas como referencia grafica; validar balizamiento real vigente.) Tj ET
 endstream
 endobj
 13 0 obj
-<< /Length 978 >>
+<< /Length 6813 >>
 stream
-BT
-/F1 10 Tf
-42 805 Td
-13 TL
-(Hoja 5/5 - Tramo D \(acceso y arribo\) + checklist final) Tj
-T*
-(Legs sugeridos \\\(orientativo\\\):) Tj
-T*
-(L8: WP8 -> WP9  | Preparacion de ingreso a canal de acceso MG.) Tj
-T*
-(L9: WP9 -> WP10 | Aproximacion final y maniobra de puerto.) Tj
-T*
-() Tj
-T*
-(Puntos de referencia y boyas:) Tj
-T*
-(- Confirmar marcas de entrada/salida del canal habilitado del dia.) Tj
-T*
-(- Velocidad de maniobra en aproximacion final.) Tj
-T*
-(- Atencion a corriente lateral al virar hacia zona de puerto.) Tj
-T*
-() Tj
-T*
-(Checklist final de arribo:) Tj
-T*
-([ ] VHF: aviso de maniobra de ingreso) Tj
-T*
-([ ] Defensas y cabos preparados) Tj
-T*
-([ ] Tripulacion briefed para atraque) Tj
-T*
-([ ] Motor/temperaturas dentro de parametros) Tj
-T*
-([ ] Reserva combustible conservada) Tj
-T*
-() Tj
-T*
-(Post-arribo:) Tj
-T*
-(- Asentar bitacora final con hora, combustible remanente y novedades.) Tj
-T*
-() Tj
-T*
-(VALIDACION PREVIA OBLIGATORIA: SHN + PNA + meteo del dia.) Tj
-T*
-ET
+0.960 0.940 0.860 rg 0.960 0.940 0.860 RG
+0.00 0.00 842.00 595.00 re f
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+0.00 520.00 842.00 75.00 re f
+1.000 1.000 1.000 rg 1.000 1.000 1.000 RG
+BT /F2 17 Tf 22.00 558.00 Td (Hoja 4/5 | Palmas - Oyarbide - Canales de acceso) Tj ET
+0.820 0.930 0.940 rg 0.820 0.930 0.940 RG
+BT /F1 10 Tf 22.00 536.00 Td (Desde Guarderia Nautica Laura / Bigua, Tupac Amaru 1130, Rincon de Milberg) Tj ET
+0.970 0.970 0.950 rg 0.970 0.970 0.950 RG
+610.00 535.00 205.00 47.00 re f
+0.700 0.080 0.080 rg 0.700 0.080 0.080 RG
+BT /F2 10 Tf 620.00 566.00 Td (NO ES CARTA OFICIAL) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 552.00 Td (Usar cartas SHN vigentes, avisos,) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 540.00 Td (mareas y verificacion a bordo.) Tj ET
+0.820 0.890 0.740 rg 0.820 0.890 0.740 RG
+22.00 48.00 570.00 445.00 re f
+0.820 0.940 0.950 rg 0.820 0.940 0.950 RG
+22.00 181.50 m 107.50 226.00 l 215.80 208.20 l 318.40 234.90 l 409.60 212.65 l 500.80 248.25 l 592.00 226.00 l 592.00 359.50 l 489.40 323.90 l 392.50 341.70 l 295.60 315.00 l 221.50 350.60 l 130.30 323.90 l 22.00 377.30 l h f
+0.650 0.780 0.730 rg 0.650 0.780 0.730 RG
+0.50 w
+117.00 48.00 m 117.00 493.00 l S
+22.00 122.17 m 592.00 122.17 l S
+212.00 48.00 m 212.00 493.00 l S
+22.00 196.33 m 592.00 196.33 l S
+307.00 48.00 m 307.00 493.00 l S
+22.00 270.50 m 592.00 270.50 l S
+402.00 48.00 m 402.00 493.00 l S
+22.00 344.67 m 592.00 344.67 l S
+497.00 48.00 m 497.00 493.00 l S
+22.00 418.83 m 592.00 418.83 l S
+0.250 0.450 0.460 rg 0.250 0.450 0.460 RG
+0.80 w
+22.00 48.00 570.00 445.00 re S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+4.50 w
+110.03 130.33 m 408.97 414.63 l 549.78 196.33 l 602.56 196.33 l S
+0.950 0.580 0.050 rg 0.950 0.580 0.050 RG
+5.50 w
+549.78 196.33 m 602.56 196.33 l S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+2.50 w
+549.78 196.33 m 602.56 196.33 l S
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+114.23 130.33 m 114.23 132.64 112.35 134.53 110.03 134.53 c 107.71 134.53 105.83 132.64 105.83 130.33 c 105.83 128.01 107.71 126.13 110.03 126.13 c 112.35 126.13 114.23 128.01 114.23 130.33 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 116.03 134.33 Td (WP6) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+413.17 414.63 m 413.17 416.95 411.29 418.83 408.97 418.83 c 406.65 418.83 404.77 416.95 404.77 414.63 c 404.77 412.31 406.65 410.43 408.97 410.43 c 411.29 410.43 413.17 412.31 413.17 414.63 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 414.97 418.63 Td (WP7) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+553.98 196.33 m 553.98 198.65 552.10 200.53 549.78 200.53 c 547.46 200.53 545.58 198.65 545.58 196.33 c 545.58 194.01 547.46 192.13 549.78 192.13 c 552.10 192.13 553.98 194.01 553.98 196.33 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 555.78 200.33 Td (WP8) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+606.76 196.33 m 606.76 198.65 604.88 200.53 602.56 200.53 c 600.24 200.53 598.36 198.65 598.36 196.33 c 598.36 194.01 600.24 192.13 602.56 192.13 c 604.88 192.13 606.76 194.01 606.76 196.33 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 608.56 200.33 Td (WP9) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 227.20 270.50 Td (Parana de las Palmas) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 136.00 208.20 Td (Canal Arias) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 466.60 341.70 Td (Canal Lynch / Petrel) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 523.60 368.40 Td (Isla Martin Garcia) Tj ET
+0.950 0.980 0.980 rg 0.950 0.980 0.980 RG
+574.00 450.00 m 574.00 461.05 565.05 470.00 554.00 470.00 c 542.95 470.00 534.00 461.05 534.00 450.00 c 534.00 438.95 542.95 430.00 554.00 430.00 c 565.05 430.00 574.00 438.95 574.00 450.00 c B
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+2.00 w
+554.00 465.00 m 548.00 442.00 l 554.00 446.00 l 560.00 442.00 l h f
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+BT /F2 10 Tf 550.00 454.00 Td (N) Tj ET
+1.50 w
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+432.00 76.00 m 522.00 76.00 l S
+432.00 70.00 m 432.00 82.00 l S
+522.00 70.00 m 522.00 82.00 l S
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+BT /F2 7 Tf 457.00 61.00 Td (escala esquematica) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 492.00 Td (DATOS DE LA HOJA) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 474.00 Td (- Tramo mas abierto: viento y deriva.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 460.00 Td (- Registrar SOG/COG cada 45-60 min.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 446.00 Td (- Evitar atajos por bancos.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 432.00 Td (- Si cambia el boyado: seguir SHN/PNA.) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 412.00 Td (LEGS / PUNTOS CLAVE) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 394.00 Td (- L5 WP5->WP6: eje de canal) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 380.00 Td (- L6 WP6->WP7: Oyarbide) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 366.00 Td (- L7 WP7->WP8: canal habilitado) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 352.00 Td (- L8 WP8->WP9: aproximacion) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 330.00 Td (WAYPOINTS VISIBLES) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 312.00 Td (WP6 Palmas control) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 302.00 Td (34.2067S  58.5083W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 292.00 Td (Sonda + balizamiento) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 279.00 Td (WP7 Zona Oyarbide) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 269.00 Td (34.0917S  58.3667W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 259.00 Td (No cortar bancos) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 246.00 Td (WP8 Canal Lynch / Petrel) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 236.00 Td (34.1800S  58.3000W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 226.00 Td (Ajustar a canal habilitado) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 213.00 Td (WP9 Aproximacion MG) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 203.00 Td (34.1800S  58.2750W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 193.00 Td (Velocidad de maniobra) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F2 8 Tf 22.00 24.00 Td (Derrota auxiliar: posiciones aproximadas. Boyas dibujadas como referencia grafica; validar balizamiento real vigente.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Length 6027 >>
+stream
+0.960 0.940 0.860 rg 0.960 0.940 0.860 RG
+0.00 0.00 842.00 595.00 re f
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+0.00 520.00 842.00 75.00 re f
+1.000 1.000 1.000 rg 1.000 1.000 1.000 RG
+BT /F2 17 Tf 22.00 558.00 Td (Hoja 5/5 | Aproximacion final y arribo a Martin Garcia) Tj ET
+0.820 0.930 0.940 rg 0.820 0.930 0.940 RG
+BT /F1 10 Tf 22.00 536.00 Td (Desde Guarderia Nautica Laura / Bigua, Tupac Amaru 1130, Rincon de Milberg) Tj ET
+0.970 0.970 0.950 rg 0.970 0.970 0.950 RG
+610.00 535.00 205.00 47.00 re f
+0.700 0.080 0.080 rg 0.700 0.080 0.080 RG
+BT /F2 10 Tf 620.00 566.00 Td (NO ES CARTA OFICIAL) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 552.00 Td (Usar cartas SHN vigentes, avisos,) Tj ET
+0.050 0.050 0.050 rg 0.050 0.050 0.050 RG
+BT /F2 8 Tf 620.00 540.00 Td (mareas y verificacion a bordo.) Tj ET
+0.820 0.890 0.740 rg 0.820 0.890 0.740 RG
+22.00 48.00 570.00 445.00 re f
+0.820 0.940 0.950 rg 0.820 0.940 0.950 RG
+22.00 181.50 m 107.50 226.00 l 215.80 208.20 l 318.40 234.90 l 409.60 212.65 l 500.80 248.25 l 592.00 226.00 l 592.00 359.50 l 489.40 323.90 l 392.50 341.70 l 295.60 315.00 l 221.50 350.60 l 130.30 323.90 l 22.00 377.30 l h f
+0.650 0.780 0.730 rg 0.650 0.780 0.730 RG
+0.50 w
+117.00 48.00 m 117.00 493.00 l S
+22.00 122.17 m 592.00 122.17 l S
+212.00 48.00 m 212.00 493.00 l S
+22.00 196.33 m 592.00 196.33 l S
+307.00 48.00 m 307.00 493.00 l S
+22.00 270.50 m 592.00 270.50 l S
+402.00 48.00 m 402.00 493.00 l S
+22.00 344.67 m 592.00 344.67 l S
+497.00 48.00 m 497.00 493.00 l S
+22.00 418.83 m 592.00 418.83 l S
+0.250 0.450 0.460 rg 0.250 0.450 0.460 RG
+0.80 w
+22.00 48.00 570.00 445.00 re S
+0.000 0.310 0.400 rg 0.000 0.310 0.400 RG
+4.50 w
+148.67 344.67 m 307.00 344.67 l 454.57 220.81 l S
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+152.87 344.67 m 152.87 346.99 150.99 348.87 148.67 348.87 c 146.35 348.87 144.47 346.99 144.47 344.67 c 144.47 342.35 146.35 340.47 148.67 340.47 c 150.99 340.47 152.87 342.35 152.87 344.67 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 154.67 348.67 Td (WP8) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+311.20 344.67 m 311.20 346.99 309.32 348.87 307.00 348.87 c 304.68 348.87 302.80 346.99 302.80 344.67 c 302.80 342.35 304.68 340.47 307.00 340.47 c 309.32 340.47 311.20 342.35 311.20 344.67 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 313.00 348.67 Td (WP9) Tj ET
+1.000 0.970 0.800 rg 1.000 0.970 0.800 RG
+458.77 220.81 m 458.77 223.13 456.89 225.01 454.57 225.01 c 452.25 225.01 450.37 223.13 450.37 220.81 c 450.37 218.49 452.25 216.61 454.57 216.61 c 456.89 216.61 458.77 218.49 458.77 220.81 c B
+0.020 0.200 0.240 rg 0.020 0.200 0.240 RG
+BT /F2 8 Tf 460.57 224.81 Td (WP10) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 227.20 270.50 Td (Parana de las Palmas) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 136.00 208.20 Td (Canal Arias) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 466.60 341.70 Td (Canal Lynch / Petrel) Tj ET
+0.050 0.190 0.230 rg 0.050 0.190 0.230 RG
+BT /F2 8 Tf 523.60 368.40 Td (Isla Martin Garcia) Tj ET
+0.950 0.980 0.980 rg 0.950 0.980 0.980 RG
+574.00 450.00 m 574.00 461.05 565.05 470.00 554.00 470.00 c 542.95 470.00 534.00 461.05 534.00 450.00 c 534.00 438.95 542.95 430.00 554.00 430.00 c 565.05 430.00 574.00 438.95 574.00 450.00 c B
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+2.00 w
+554.00 465.00 m 548.00 442.00 l 554.00 446.00 l 560.00 442.00 l h f
+0.020 0.220 0.280 rg 0.020 0.220 0.280 RG
+BT /F2 10 Tf 550.00 454.00 Td (N) Tj ET
+1.50 w
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+432.00 76.00 m 522.00 76.00 l S
+432.00 70.00 m 432.00 82.00 l S
+522.00 70.00 m 522.00 82.00 l S
+0.030 0.200 0.250 rg 0.030 0.200 0.250 RG
+BT /F2 7 Tf 457.00 61.00 Td (escala esquematica) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 492.00 Td (DATOS DE LA HOJA) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 474.00 Td (- Confirmar marcas de entrada del dia.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 460.00 Td (- Velocidad de maniobra en aproximacion.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 446.00 Td (- Cabos y defensas preparados.) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 432.00 Td (- Aviso VHF antes de maniobra final.) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 412.00 Td (LEGS / PUNTOS CLAVE) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 394.00 Td (- L8 WP8->WP9: entrada) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 380.00 Td (- L9 WP9->WP10: puerto) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 366.00 Td (- Banco: no cortar directo) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 8 Tf 615.00 352.00 Td (- Canal: seguir boyas reales) Tj ET
+0.040 0.200 0.230 rg 0.040 0.200 0.230 RG
+BT /F2 11 Tf 615.00 330.00 Td (WAYPOINTS VISIBLES) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 312.00 Td (WP8 Canal Lynch / Petrel) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 302.00 Td (34.1800S  58.3000W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 292.00 Td (Ajustar a canal habilitado) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 279.00 Td (WP9 Aproximacion MG) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 269.00 Td (34.1800S  58.2750W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 259.00 Td (Velocidad de maniobra) Tj ET
+0.020 0.160 0.190 rg 0.020 0.160 0.190 RG
+BT /F2 7 Tf 615.00 246.00 Td (WP10 Puerto Martin Garcia) Tj ET
+0.040 0.040 0.040 rg 0.040 0.040 0.040 RG
+BT /F1 7 Tf 623.00 236.00 Td (34.1967S  58.2517W) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F1 7 Tf 623.00 226.00 Td (Arribo / amarre) Tj ET
+0.400 0.100 0.050 rg 0.400 0.100 0.050 RG
+BT /F2 8 Tf 22.00 24.00 Td (Derrota auxiliar: posiciones aproximadas. Boyas dibujadas como referencia grafica; validar balizamiento real vigente.) Tj ET
 endstream
 endobj
 xref
-0 14
+0 15
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
 0000000139 00000 n 
-0000000265 00000 n 
-0000000392 00000 n 
-0000000519 00000 n 
-0000000646 00000 n 
-0000000773 00000 n 
-0000000843 00000 n 
-0000001880 00000 n 
-0000003082 00000 n 
-0000004137 00000 n 
-0000005224 00000 n 
-trailer << /Size 14 /Root 1 0 R >>
+0000000276 00000 n 
+0000000413 00000 n 
+0000000550 00000 n 
+0000000687 00000 n 
+0000000824 00000 n 
+0000000894 00000 n 
+0000000969 00000 n 
+0000011135 00000 n 
+0000017917 00000 n 
+0000025353 00000 n 
+0000032219 00000 n 
+trailer << /Size 15 /Root 1 0 R >>
 startxref
-6254
+38299
 %%EOF
