@@ -1,0 +1,281 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 9 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 10 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 11 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 12 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 8 0 R >> >> /Contents 13 0 R >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+9 0 obj
+<< /Length 986 >>
+stream
+BT
+/F1 10 Tf
+42 805 Td
+13 TL
+(Hoja 1/5 - Portada y alcance) Tj
+T*
+(Fecha de emision: 2026-05-05) Tj
+T*
+(Derrotero detallado: Tigre \\\(Guarderia Laura\\\) -> Isla Martin Garcia) Tj
+T*
+() Tj
+T*
+(ALCANCE: material de planificacion y briefing.) Tj
+T*
+(NO reemplaza cartas SHN, avisos a los navegantes ni instrucciones PNA.) Tj
+T*
+() Tj
+T*
+(Formato de este documento:) Tj
+T*
+(- Hoja 2: Tabla de waypoints maestros \\\(WGS84\\\).) Tj
+T*
+(- Hoja 3: Tramo A-B con referencias de boyas/puntos notables.) Tj
+T*
+(- Hoja 4: Tramo C con control de navegacion y referencias.) Tj
+T*
+(- Hoja 5: Tramo D \\\(aproximacion\\\) + checklist final.) Tj
+T*
+() Tj
+T*
+(Criterios operativos recomendados:) Tj
+T*
+(- Mantenerse SIEMPRE en canal balizado vigente.) Tj
+T*
+(- Verificar calado/sonda en tiempo real y estado de marea/corriente.) Tj
+T*
+(- Priorizar boyado observado en sitio sobre cualquier tabla estatica.) Tj
+T*
+(- Actualizar derrota segun meteorologia \\\(niebla, sudestada, tormentas\\\).) Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 1149 >>
+stream
+BT
+/F1 10 Tf
+42 805 Td
+13 TL
+(Hoja 2/5 - Waypoints maestros \(WGS84 aprox.\)) Tj
+T*
+(Tabla base para carga en plotter \\\(verificar antes de zarpar\\\):) Tj
+T*
+() Tj
+T*
+(WP1  Salida Guarderia Laura               3425.8'S   5834.7'W) Tj
+T*
+(WP2  Rio Lujan medio \\\(ref\\\)              3424.9'S   5836.6'W) Tj
+T*
+(WP3  Ingreso Canal Gobernador Arias       3423.7'S   5840.8'W) Tj
+T*
+(WP4  Arias tramo medio \\\(ref\\\)            3421.2'S   5840.7'W) Tj
+T*
+(WP5  Egreso Arias / P. de las Palmas      3418.4'S   5840.6'W) Tj
+T*
+(WP6  Palmas aguas abajo \\\(ref\\\)           3412.4'S   5830.5'W) Tj
+T*
+(WP7  Zona Oyarbide \\\(ref\\\)                3405.5'S   5822.0'W) Tj
+T*
+(WP8  Control intermedio                   3409.8'S   5818.5'W) Tj
+T*
+(WP9  Aprox. canal acceso Martin Garcia    3410.8'S   5816.5'W) Tj
+T*
+(WP10 Puerto Isla Martin Garcia            3411.8'S   5815.1'W) Tj
+T*
+() Tj
+T*
+(Observaciones:) Tj
+T*
+(- Coordenadas aproximadas para orientacion general.) Tj
+T*
+(- Puede haber relocalizacion de boyas por dragado/mantenimiento.) Tj
+T*
+(- Confirmar ETA/combustible con velocidad real y corriente efectiva.) Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 1002 >>
+stream
+BT
+/F1 10 Tf
+42 805 Td
+13 TL
+(Hoja 3/5 - Tramo A-B \(Tigre -> Canal Arias\)) Tj
+T*
+(Legs sugeridos \\\(orientativo\\\):) Tj
+T*
+(L1: WP1 -> WP2 | Delta urbano | trafico intenso recreo/servicios.) Tj
+T*
+(L2: WP2 -> WP3 | Preparar ingreso a Arias por canal principal.) Tj
+T*
+(L3: WP3 -> WP4 | Canal angosto: velocidad moderada y vigia activa.) Tj
+T*
+(L4: WP4 -> WP5 | Salida a Parana de las Palmas.) Tj
+T*
+() Tj
+T*
+(Boyas y referencias practicas:) Tj
+T*
+(- Identificar marcas laterales vigentes antes de cada curva importante.) Tj
+T*
+(- Evitar navegar fuera del veril balizado aunque haya espejo de agua.) Tj
+T*
+(- En cruces con trafico mayor: maniobra previsible y distancia segura.) Tj
+T*
+() Tj
+T*
+(Control de riesgo del tramo:) Tj
+T*
+(- Riesgo principal: estelas, cruces y visibilidad reducida en curvas.) Tj
+T*
+(- Mitigacion: vigia en proa, VHF en escucha y reduccion preventiva.) Tj
+T*
+() Tj
+T*
+(Comunicaciones recomendadas:) Tj
+T*
+(- Reporte interno de paso por WP3 y WP5 \\\(bitacora\\\).) Tj
+T*
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 1034 >>
+stream
+BT
+/F1 10 Tf
+42 805 Td
+13 TL
+(Hoja 4/5 - Tramo C \(Parana de las Palmas\)) Tj
+T*
+(Legs sugeridos \\\(orientativo\\\):) Tj
+T*
+(L5: WP5 -> WP6 | Mantener eje del canal y control de sonda.) Tj
+T*
+(L6: WP6 -> WP7 | Navegacion mas abierta, atento a viento transversal.) Tj
+T*
+(L7: WP7 -> WP8 | Revisar deriva y compensar abatimiento.) Tj
+T*
+() Tj
+T*
+(Boyado / referencias de seguridad:) Tj
+T*
+(- Seguir secuencia real de boyas observadas \\\(prioridad absoluta\\\).) Tj
+T*
+(- Si hay duda de balizamiento: bajar velocidad y validar posicion GPS+sonda.) Tj
+T*
+(- No cortar meandros fuera de canal marcado.) Tj
+T*
+() Tj
+T*
+(Parametros de control recomendados:) Tj
+T*
+(- Registro horario: posicion, velocidad fondo \\\(SOG\\\), rumbo fondo \\\(COG\\\).) Tj
+T*
+(- Comparar consumo real vs planificado cada 45-60 min.) Tj
+T*
+() Tj
+T*
+(Condiciones meteo-hidrograficas criticas:) Tj
+T*
+(- Niebla: considerar espera o fondeo seguro hasta mejorar visibilidad.) Tj
+T*
+(- Sudestada/tormenta: reevaluar continuidad antes de entrar al tramo D.) Tj
+T*
+ET
+endstream
+endobj
+13 0 obj
+<< /Length 978 >>
+stream
+BT
+/F1 10 Tf
+42 805 Td
+13 TL
+(Hoja 5/5 - Tramo D \(acceso y arribo\) + checklist final) Tj
+T*
+(Legs sugeridos \\\(orientativo\\\):) Tj
+T*
+(L8: WP8 -> WP9  | Preparacion de ingreso a canal de acceso MG.) Tj
+T*
+(L9: WP9 -> WP10 | Aproximacion final y maniobra de puerto.) Tj
+T*
+() Tj
+T*
+(Puntos de referencia y boyas:) Tj
+T*
+(- Confirmar marcas de entrada/salida del canal habilitado del dia.) Tj
+T*
+(- Velocidad de maniobra en aproximacion final.) Tj
+T*
+(- Atencion a corriente lateral al virar hacia zona de puerto.) Tj
+T*
+() Tj
+T*
+(Checklist final de arribo:) Tj
+T*
+([ ] VHF: aviso de maniobra de ingreso) Tj
+T*
+([ ] Defensas y cabos preparados) Tj
+T*
+([ ] Tripulacion briefed para atraque) Tj
+T*
+([ ] Motor/temperaturas dentro de parametros) Tj
+T*
+([ ] Reserva combustible conservada) Tj
+T*
+() Tj
+T*
+(Post-arribo:) Tj
+T*
+(- Asentar bitacora final con hora, combustible remanente y novedades.) Tj
+T*
+() Tj
+T*
+(VALIDACION PREVIA OBLIGATORIA: SHN + PNA + meteo del dia.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000139 00000 n 
+0000000265 00000 n 
+0000000392 00000 n 
+0000000519 00000 n 
+0000000646 00000 n 
+0000000773 00000 n 
+0000000843 00000 n 
+0000001880 00000 n 
+0000003082 00000 n 
+0000004137 00000 n 
+0000005224 00000 n 
+trailer << /Size 14 /Root 1 0 R >>
+startxref
+6254
+%%EOF
