@@ -1,0 +1,55 @@
+name,latitude_dmm,longitude_dmm,latitude_decimal,longitude_decimal,description,datos_interes,source
+LAURA,34° 24.780' S,058° 35.070' W,-34.4130000,-58.5845000,"Guardería Náutica Laura / Biguá, Tupac Amaru 1130",Punto estimado de salida: confirmar en GPS antes de zarpar,Waze/Moovit + aproximación
+LUJMAT,34° 24.756' S,058° 34.920' W,-34.4126000,-58.5820000,Río Luján frente al Museo de Arte Tigre,Salir despacio; alto tránsito turístico/deportivo,Estimado
+LJCVIN,34° 26.002' S,058° 32.386' W,-34.4333717,-58.5397650,Río Luján y Canal Vinculación,Empalme con derrota CVPB; mínima velocidad compatible,CVPB Lujan02
+CVINC1,34° 25.756' S,058° 32.427' W,-34.4292700,-58.5404450,Canal Vinculación,Centro de canal; prohibida vela según CVPB/PNA,CVPB
+CVINC2,34° 25.395' S,058° 32.423' W,-34.4232483,-58.5403817,Canal Vinculación y Arroyo Gutiérrez,Seguir cauce central,CVPB
+CVINC3,34° 24.468' S,058° 31.568' W,-34.4078000,-58.5261267,Canal Vinculación,Atención al tránsito,CVPB
+CVINC4,34° 24.331' S,058° 31.200' W,-34.4055150,-58.5200000,Canal Vinculación y Río San Antonio,Banco al N; cardinal Este CEVinc cercano,CVPB
+URION1,34° 23.701' S,058° 31.312' W,-34.3950167,-58.5218600,Río Urión,Motor; canal angosto,CVPB
+URION2,34° 23.160' S,058° 31.542' W,-34.3860050,-58.5257033,Río Urión,Motor; canal angosto,CVPB
+URION3,34° 22.830' S,058° 31.513' W,-34.3805017,-58.5252100,Río Urión,Motor; canal angosto,CVPB
+URION4,34° 22.548' S,058° 31.404' W,-34.3757933,-58.5234050,Río Urión,Motor; canal angosto,CVPB
+URION5,34° 22.092' S,058° 31.416' W,-34.3681967,-58.5236017,Río Urión,Motor; canal angosto,CVPB
+URION6,34° 21.787' S,058° 31.457' W,-34.3631167,-58.5242850,Río Urión,Motor; canal angosto,CVPB
+URION7,34° 21.454' S,058° 31.573' W,-34.3575667,-58.5262250,Río Urión,Motor; canal angosto,CVPB
+URION8,34° 21.010' S,058° 31.351' W,-34.3501617,-58.5225233,Río Urión,Motor; canal angosto,CVPB
+HONDA1,34° 20.565' S,058° 31.488' W,-34.3427550,-58.5247967,Canal Honda,"Sondajes CVPB: aprox. 2,5-3,0 m",CVPB
+HONDA2,34° 18.752' S,058° 32.162' W,-34.3125283,-58.5360333,Canal Honda y Canal Hambrientos,Mantener cauce central,CVPB
+HONDA3,34° 18.255' S,058° 32.486' W,-34.3042533,-58.5414417,Canal Honda y Paraná de las Palmas,Ingreso a río principal,CVPB
+PPALIN,34° 18.135' S,058° 32.379' W,-34.3022567,-58.5396467,"Paraná de las Palmas, Isla Nueva",Cuidado tráfico mercante,CVPB
+PALM51,34° 18.003' S,058° 31.388' W,-34.3000567,-58.5231350,"Paraná de las Palmas km 51,4",Zona con profundidad amplia,CVPB
+PPAL50,34° 18.138' S,058° 30.862' W,-34.3022933,-58.5143683,"Paraná de las Palmas km 50,6",Tráfico y fondeos,CVPB
+PPAL49,34° 18.465' S,058° 30.406' W,-34.3077550,-58.5067633,"Paraná de las Palmas km 49,7",Preparar salida a Barca Grande,CVPB
+PPAL48,34° 18.946' S,058° 29.740' W,-34.3157700,-58.4956667,Paraná de las Palmas km 48 aprox.,Boya roja km 48; apartarse del veril hacia el E,CVPB
+PPAL47,34° 19.196' S,058° 29.285' W,-34.3199283,-58.4880833,"Paraná de las Palmas km 47,4",Cruce hacia Isla Lucha,CVPB
+ILUCHA,34° 19.369' S,058° 28.751' W,-34.3228133,-58.4791917,Canal al Sur de Isla Lucha,Entrada a palos 00-16,CVPB
+PALO00,34° 19.428' S,058° 27.561' W,-34.3237933,-58.4593417,Palo Nro 00,Los palos no siempre marcan el mayor fondo,CVPB
+PALO01,34° 19.472' S,058° 26.649' W,-34.3245350,-58.4441533,Palo Nro 01,Sondear; reducir si hay dudas,CVPB
+PALO02,34° 19.498' S,058° 26.201' W,-34.3249667,-58.4366767,Palo Nro 02,"Sector crítico: mínimo informado aprox. 1,50 m",CVPB
+PALO03,34° 19.334' S,058° 25.369' W,-34.3222317,-58.4228233,Palo Nro 03,Sector crítico: verificar altura de agua,CVPB
+PALO04,34° 19.072' S,058° 24.704' W,-34.3178683,-58.4117317,Palo Nro 04,Luego aumenta profundidad,CVPB
+PALO05,34° 18.865' S,058° 24.191' W,-34.3144133,-58.4031883,Palo Nro 05,Rumbo NE,CVPB
+PALO06,34° 18.618' S,058° 23.556' W,-34.3102983,-58.3926067,"Palo Nro 06, Pozos del Barca Grande",Canal con >5 m según CVPB,CVPB
+PALO07,34° 18.116' S,058° 23.022' W,-34.3019350,-58.3837017,"Palo Nro 07, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO08,34° 17.543' S,058° 22.368' W,-34.2923783,-58.3728083,"Palo Nro 08, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO09,34° 17.251' S,058° 22.164' W,-34.2875183,-58.3694033,"Palo Nro 09, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO10,34° 16.829' S,058° 21.849' W,-34.2804883,-58.3641567,"Palo Nro 10, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO11,34° 16.609' S,058° 21.662' W,-34.2768167,-58.3610417,"Palo Nro 11, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO12,34° 15.883' S,058° 21.341' W,-34.2647200,-58.3556783,"Palo Nro 12, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO13,34° 15.143' S,058° 21.399' W,-34.2523833,-58.3566567,"Palo Nro 13, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO14,34° 14.216' S,058° 21.434' W,-34.2369333,-58.3572317,"Palo Nro 14, Pozos del Barca Grande",Mantener derrota,CVPB
+PALO15,34° 13.541' S,058° 21.263' W,-34.2256817,-58.3543833,"Palo Nro 15, Pozos del Barca Grande",Aproxima Lancha Petrel,CVPB
+PALO16,34° 13.077' S,058° 20.953' W,-34.2179433,-58.3492100,"Palo Nro 16, Pozos del Barca Grande",Abrir a Canal Lancha Petrel,CVPB
+PETREL1,34° 12.335' S,058° 20.195' W,-34.2055867,-58.3365883,Canal Lancha Petrel - boca Barca Grande,Reparo alternativo ante mal pronóstico,CVPB
+PETREL2,34° 11.324' S,058° 19.245' W,-34.1887317,-58.3207533,Canal Lancha Petrel,Entre Isla Lucía e Isla Oyarvide,CVPB
+PETREL3,34° 11.146' S,058° 18.894' W,-34.1857683,-58.3149050,Canal Lancha Petrel / Canal Buenos Aires,No cruzar directo al muelle,CVPB
+CBSA01,34° 11.066' S,058° 18.535' W,-34.1844317,-58.3089217,Canal Buenos Aires,Seguir paralelo a Oyarvide,CVPB
+CBSA02,34° 11.132' S,058° 18.262' W,-34.1855367,-58.3043683,Canal Buenos Aires,Evitar banco entre Oyarvide y Martín García,CVPB
+CBSA03,34° 11.733' S,058° 17.300' W,-34.1955467,-58.2883333,Canal Buenos Aires - cruce final,"Cruzar 090° verdadero 1,3 mn",CVPB
+CBSA04,34° 11.733' S,058° 15.730' W,-34.1955467,-58.2621667,SW del muelle de Isla Martín García,Posición derivada: verificar en carta SHN antes de usar,CVPB
+FONIMG,34° 11.540' S,058° 15.330' W,-34.1923333,-58.2555000,Zona de fondeo NO del muelle,No dejar embarcación en muelle; fondear y bajar con auxiliar,CVPB
+MUELLE,34° 11.620' S,058° 15.200' W,-34.1936667,-58.2533333,Muelle Isla Martín García,Canal de acceso no balizado; faro-baliza SW como referencia,CVPB
+NAFTA1,34° 25.840' S,058° 32.569' W,-34.4306667,-58.5428167,Estación de combustible en Río Luján,Últimas opciones de combustible en el arranque,CVPB seguridad
+NAFTA6,34° 19.497' S,058° 31.800' W,-34.3249500,-58.5300000,Estación de combustible / referencia,Verificar disponibilidad antes de depender de ella,CVPB seguridad
+CEVINC,34° 24.314' S,058° 31.302' W,-34.4052333,-58.5217000,Cardinal Este Canal Vinculación / Río San Antonio,Banco margen N; BYB Vq(3)W 5s según CVPB,CVPB seguridad

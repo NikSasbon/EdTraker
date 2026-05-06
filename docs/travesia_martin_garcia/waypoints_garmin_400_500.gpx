@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="EdTraker Codex itinerary" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Guarderia Laura - Isla Martin Garcia</name><time>2026-05-06T00:00:00Z</time></metadata>
+  <wpt lat="-34.4130000" lon="-58.5845000"><name>LAURA</name><desc>Guardería Náutica Laura / Biguá, Tupac Amaru 1130 - Punto estimado de salida: confirmar en GPS antes de zarpar</desc></wpt>
+  <wpt lat="-34.4126000" lon="-58.5820000"><name>LUJMAT</name><desc>Río Luján frente al Museo de Arte Tigre - Salir despacio; alto tránsito turístico/deportivo</desc></wpt>
+  <wpt lat="-34.4333717" lon="-58.5397650"><name>LJCVIN</name><desc>Río Luján y Canal Vinculación - Empalme con derrota CVPB; mínima velocidad compatible</desc></wpt>
+  <wpt lat="-34.4292700" lon="-58.5404450"><name>CVINC1</name><desc>Canal Vinculación - Centro de canal; prohibida vela según CVPB/PNA</desc></wpt>
+  <wpt lat="-34.4232483" lon="-58.5403817"><name>CVINC2</name><desc>Canal Vinculación y Arroyo Gutiérrez - Seguir cauce central</desc></wpt>
+  <wpt lat="-34.4078000" lon="-58.5261267"><name>CVINC3</name><desc>Canal Vinculación - Atención al tránsito</desc></wpt>
+  <wpt lat="-34.4055150" lon="-58.5200000"><name>CVINC4</name><desc>Canal Vinculación y Río San Antonio - Banco al N; cardinal Este CEVinc cercano</desc></wpt>
+  <wpt lat="-34.3950167" lon="-58.5218600"><name>URION1</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3860050" lon="-58.5257033"><name>URION2</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3805017" lon="-58.5252100"><name>URION3</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3757933" lon="-58.5234050"><name>URION4</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3681967" lon="-58.5236017"><name>URION5</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3631167" lon="-58.5242850"><name>URION6</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3575667" lon="-58.5262250"><name>URION7</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3501617" lon="-58.5225233"><name>URION8</name><desc>Río Urión - Motor; canal angosto</desc></wpt>
+  <wpt lat="-34.3427550" lon="-58.5247967"><name>HONDA1</name><desc>Canal Honda - Sondajes CVPB: aprox. 2,5-3,0 m</desc></wpt>
+  <wpt lat="-34.3125283" lon="-58.5360333"><name>HONDA2</name><desc>Canal Honda y Canal Hambrientos - Mantener cauce central</desc></wpt>
+  <wpt lat="-34.3042533" lon="-58.5414417"><name>HONDA3</name><desc>Canal Honda y Paraná de las Palmas - Ingreso a río principal</desc></wpt>
+  <wpt lat="-34.3022567" lon="-58.5396467"><name>PPALIN</name><desc>Paraná de las Palmas, Isla Nueva - Cuidado tráfico mercante</desc></wpt>
+  <wpt lat="-34.3000567" lon="-58.5231350"><name>PALM51</name><desc>Paraná de las Palmas km 51,4 - Zona con profundidad amplia</desc></wpt>
+  <wpt lat="-34.3022933" lon="-58.5143683"><name>PPAL50</name><desc>Paraná de las Palmas km 50,6 - Tráfico y fondeos</desc></wpt>
+  <wpt lat="-34.3077550" lon="-58.5067633"><name>PPAL49</name><desc>Paraná de las Palmas km 49,7 - Preparar salida a Barca Grande</desc></wpt>
+  <wpt lat="-34.3157700" lon="-58.4956667"><name>PPAL48</name><desc>Paraná de las Palmas km 48 aprox. - Boya roja km 48; apartarse del veril hacia el E</desc></wpt>
+  <wpt lat="-34.3199283" lon="-58.4880833"><name>PPAL47</name><desc>Paraná de las Palmas km 47,4 - Cruce hacia Isla Lucha</desc></wpt>
+  <wpt lat="-34.3228133" lon="-58.4791917"><name>ILUCHA</name><desc>Canal al Sur de Isla Lucha - Entrada a palos 00-16</desc></wpt>
+  <wpt lat="-34.3237933" lon="-58.4593417"><name>PALO00</name><desc>Palo Nro 00 - Los palos no siempre marcan el mayor fondo</desc></wpt>
+  <wpt lat="-34.3245350" lon="-58.4441533"><name>PALO01</name><desc>Palo Nro 01 - Sondear; reducir si hay dudas</desc></wpt>
+  <wpt lat="-34.3249667" lon="-58.4366767"><name>PALO02</name><desc>Palo Nro 02 - Sector crítico: mínimo informado aprox. 1,50 m</desc></wpt>
+  <wpt lat="-34.3222317" lon="-58.4228233"><name>PALO03</name><desc>Palo Nro 03 - Sector crítico: verificar altura de agua</desc></wpt>
+  <wpt lat="-34.3178683" lon="-58.4117317"><name>PALO04</name><desc>Palo Nro 04 - Luego aumenta profundidad</desc></wpt>
+  <wpt lat="-34.3144133" lon="-58.4031883"><name>PALO05</name><desc>Palo Nro 05 - Rumbo NE</desc></wpt>
+  <wpt lat="-34.3102983" lon="-58.3926067"><name>PALO06</name><desc>Palo Nro 06, Pozos del Barca Grande - Canal con &gt;5 m según CVPB</desc></wpt>
+  <wpt lat="-34.3019350" lon="-58.3837017"><name>PALO07</name><desc>Palo Nro 07, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2923783" lon="-58.3728083"><name>PALO08</name><desc>Palo Nro 08, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2875183" lon="-58.3694033"><name>PALO09</name><desc>Palo Nro 09, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2804883" lon="-58.3641567"><name>PALO10</name><desc>Palo Nro 10, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2768167" lon="-58.3610417"><name>PALO11</name><desc>Palo Nro 11, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2647200" lon="-58.3556783"><name>PALO12</name><desc>Palo Nro 12, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2523833" lon="-58.3566567"><name>PALO13</name><desc>Palo Nro 13, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2369333" lon="-58.3572317"><name>PALO14</name><desc>Palo Nro 14, Pozos del Barca Grande - Mantener derrota</desc></wpt>
+  <wpt lat="-34.2256817" lon="-58.3543833"><name>PALO15</name><desc>Palo Nro 15, Pozos del Barca Grande - Aproxima Lancha Petrel</desc></wpt>
+  <wpt lat="-34.2179433" lon="-58.3492100"><name>PALO16</name><desc>Palo Nro 16, Pozos del Barca Grande - Abrir a Canal Lancha Petrel</desc></wpt>
+  <wpt lat="-34.2055867" lon="-58.3365883"><name>PETREL1</name><desc>Canal Lancha Petrel - boca Barca Grande - Reparo alternativo ante mal pronóstico</desc></wpt>
+  <wpt lat="-34.1887317" lon="-58.3207533"><name>PETREL2</name><desc>Canal Lancha Petrel - Entre Isla Lucía e Isla Oyarvide</desc></wpt>
+  <wpt lat="-34.1857683" lon="-58.3149050"><name>PETREL3</name><desc>Canal Lancha Petrel / Canal Buenos Aires - No cruzar directo al muelle</desc></wpt>
+  <wpt lat="-34.1844317" lon="-58.3089217"><name>CBSA01</name><desc>Canal Buenos Aires - Seguir paralelo a Oyarvide</desc></wpt>
+  <wpt lat="-34.1855367" lon="-58.3043683"><name>CBSA02</name><desc>Canal Buenos Aires - Evitar banco entre Oyarvide y Martín García</desc></wpt>
+  <wpt lat="-34.1955467" lon="-58.2883333"><name>CBSA03</name><desc>Canal Buenos Aires - cruce final - Cruzar 090° verdadero 1,3 mn</desc></wpt>
+  <wpt lat="-34.1955467" lon="-58.2621667"><name>CBSA04</name><desc>SW del muelle de Isla Martín García - Posición derivada: verificar en carta SHN antes de usar</desc></wpt>
+  <wpt lat="-34.1923333" lon="-58.2555000"><name>FONIMG</name><desc>Zona de fondeo NO del muelle - No dejar embarcación en muelle; fondear y bajar con auxiliar</desc></wpt>
+  <wpt lat="-34.1936667" lon="-58.2533333"><name>MUELLE</name><desc>Muelle Isla Martín García - Canal de acceso no balizado; faro-baliza SW como referencia</desc></wpt>
+  <wpt lat="-34.4306667" lon="-58.5428167"><name>NAFTA1</name><desc>Estación de combustible en Río Luján - Últimas opciones de combustible en el arranque</desc></wpt>
+  <wpt lat="-34.3249500" lon="-58.5300000"><name>NAFTA6</name><desc>Estación de combustible / referencia - Verificar disponibilidad antes de depender de ella</desc></wpt>
+  <wpt lat="-34.4052333" lon="-58.5217000"><name>CEVINC</name><desc>Cardinal Este Canal Vinculación / Río San Antonio - Banco margen N; BYB Vq(3)W 5s según CVPB</desc></wpt>
+  <rte><name>Laura Tigre a Isla Martin Garcia</name>
+    <rtept lat="-34.4130000" lon="-58.5845000"><name>LAURA</name></rtept>
+    <rtept lat="-34.4126000" lon="-58.5820000"><name>LUJMAT</name></rtept>
+    <rtept lat="-34.4333717" lon="-58.5397650"><name>LJCVIN</name></rtept>
+    <rtept lat="-34.4292700" lon="-58.5404450"><name>CVINC1</name></rtept>
+    <rtept lat="-34.4232483" lon="-58.5403817"><name>CVINC2</name></rtept>
+    <rtept lat="-34.4078000" lon="-58.5261267"><name>CVINC3</name></rtept>
+    <rtept lat="-34.4055150" lon="-58.5200000"><name>CVINC4</name></rtept>
+    <rtept lat="-34.3950167" lon="-58.5218600"><name>URION1</name></rtept>
+    <rtept lat="-34.3860050" lon="-58.5257033"><name>URION2</name></rtept>
+    <rtept lat="-34.3805017" lon="-58.5252100"><name>URION3</name></rtept>
+    <rtept lat="-34.3757933" lon="-58.5234050"><name>URION4</name></rtept>
+    <rtept lat="-34.3681967" lon="-58.5236017"><name>URION5</name></rtept>
+    <rtept lat="-34.3631167" lon="-58.5242850"><name>URION6</name></rtept>
+    <rtept lat="-34.3575667" lon="-58.5262250"><name>URION7</name></rtept>
+    <rtept lat="-34.3501617" lon="-58.5225233"><name>URION8</name></rtept>
+    <rtept lat="-34.3427550" lon="-58.5247967"><name>HONDA1</name></rtept>
+    <rtept lat="-34.3125283" lon="-58.5360333"><name>HONDA2</name></rtept>
+    <rtept lat="-34.3042533" lon="-58.5414417"><name>HONDA3</name></rtept>
+    <rtept lat="-34.3022567" lon="-58.5396467"><name>PPALIN</name></rtept>
+    <rtept lat="-34.3000567" lon="-58.5231350"><name>PALM51</name></rtept>
+    <rtept lat="-34.3022933" lon="-58.5143683"><name>PPAL50</name></rtept>
+    <rtept lat="-34.3077550" lon="-58.5067633"><name>PPAL49</name></rtept>
+    <rtept lat="-34.3157700" lon="-58.4956667"><name>PPAL48</name></rtept>
+    <rtept lat="-34.3199283" lon="-58.4880833"><name>PPAL47</name></rtept>
+    <rtept lat="-34.3228133" lon="-58.4791917"><name>ILUCHA</name></rtept>
+    <rtept lat="-34.3237933" lon="-58.4593417"><name>PALO00</name></rtept>
+    <rtept lat="-34.3245350" lon="-58.4441533"><name>PALO01</name></rtept>
+    <rtept lat="-34.3249667" lon="-58.4366767"><name>PALO02</name></rtept>
+    <rtept lat="-34.3222317" lon="-58.4228233"><name>PALO03</name></rtept>
+    <rtept lat="-34.3178683" lon="-58.4117317"><name>PALO04</name></rtept>
+    <rtept lat="-34.3144133" lon="-58.4031883"><name>PALO05</name></rtept>
+    <rtept lat="-34.3102983" lon="-58.3926067"><name>PALO06</name></rtept>
+    <rtept lat="-34.3019350" lon="-58.3837017"><name>PALO07</name></rtept>
+    <rtept lat="-34.2923783" lon="-58.3728083"><name>PALO08</name></rtept>
+    <rtept lat="-34.2875183" lon="-58.3694033"><name>PALO09</name></rtept>
+    <rtept lat="-34.2804883" lon="-58.3641567"><name>PALO10</name></rtept>
+    <rtept lat="-34.2768167" lon="-58.3610417"><name>PALO11</name></rtept>
+    <rtept lat="-34.2647200" lon="-58.3556783"><name>PALO12</name></rtept>
+    <rtept lat="-34.2523833" lon="-58.3566567"><name>PALO13</name></rtept>
+    <rtept lat="-34.2369333" lon="-58.3572317"><name>PALO14</name></rtept>
+    <rtept lat="-34.2256817" lon="-58.3543833"><name>PALO15</name></rtept>
+    <rtept lat="-34.2179433" lon="-58.3492100"><name>PALO16</name></rtept>
+    <rtept lat="-34.2055867" lon="-58.3365883"><name>PETREL1</name></rtept>
+    <rtept lat="-34.1887317" lon="-58.3207533"><name>PETREL2</name></rtept>
+    <rtept lat="-34.1857683" lon="-58.3149050"><name>PETREL3</name></rtept>
+    <rtept lat="-34.1844317" lon="-58.3089217"><name>CBSA01</name></rtept>
+    <rtept lat="-34.1855367" lon="-58.3043683"><name>CBSA02</name></rtept>
+    <rtept lat="-34.1955467" lon="-58.2883333"><name>CBSA03</name></rtept>
+    <rtept lat="-34.1955467" lon="-58.2621667"><name>CBSA04</name></rtept>
+    <rtept lat="-34.1923333" lon="-58.2555000"><name>FONIMG</name></rtept>
+    <rtept lat="-34.1936667" lon="-58.2533333"><name>MUELLE</name></rtept>
+  </rte>
+</gpx>
